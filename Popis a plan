@@ -1,0 +1,20 @@
+
+AutoFolde   (console app)
+
+|x|  Nacist vsechny aktivni okna
+|x|  Vypsat nazvy oken, procesy zpusteni atd.
+|x|  Opakovat kazdou +- vterinu
+| |  Vyhledat podle nazvu spravne okno a udelat scerren (pouze vybraneho okna)
+| |  Vyhodnotit screen zda je vnem obsazen prislusny .bmp 
+| |  Na zaklade vysledku porovnani .bmp prevest dosadit prislusnou karetni kombinaci
+| |  Najit karetni kombinaci v FolderSeting.txt a provst prislusnou akci
+                -fold
+                -none
+            
+            
+ 
+ 
+ FolderSeting  (form)
+ 
+ |x|  Provest nastaveni v okne za pouziti checkBoxu. 
+ |x|  Vygenerovat a ulozit .txt s nastavenim
